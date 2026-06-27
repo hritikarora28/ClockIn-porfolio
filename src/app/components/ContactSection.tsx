@@ -86,7 +86,7 @@ export function ContactSection() {
                   </div>
                   <div>
                     <div className="text-xs text-muted-foreground mb-0.5">Email</div>
-                    <div className="text-sm text-foreground">hello@clockin.dev</div>
+                    <div className="text-sm text-foreground">hritikarora875@gmail.com</div>
                   </div>
                 </div>
 
@@ -96,7 +96,7 @@ export function ContactSection() {
                   </div>
                   <div>
                     <div className="text-xs text-muted-foreground mb-0.5">Phone</div>
-                    <div className="text-sm text-foreground">+1 (555) 000-0000</div>
+                    <div className="text-sm text-foreground">+91 7389753255</div>
                   </div>
                 </div>
 
